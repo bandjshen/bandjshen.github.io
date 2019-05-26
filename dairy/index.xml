@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dairies on </title>
+    <link>http://bandjshen.github.io/dairy/</link>
+    <description>Recent content in Dairies on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 May 2019 21:49:11 +0800</lastBuildDate>
+    
+	<atom:link href="http://bandjshen.github.io/dairy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2019-05-26</title>
+      <link>http://bandjshen.github.io/dairy/1/</link>
+      <pubDate>Sun, 26 May 2019 21:49:11 +0800</pubDate>
+      
+      <guid>http://bandjshen.github.io/dairy/1/</guid>
+      <description> 周末无事  天气潮湿闷热
+ 中午吃牛蛙面
+ 晚上吃鲈鱼
+ 市场里水果价格高昂，蔬菜有所回落，牛蛙只有9块钱一斤，鲈鱼还是老价钱。今天下雨，下午5点菜贩的青菜还没卖出去，纷纷降价。空心菜2元一斤，西红柿3元。
+ 中午，公司群里晒照片，看似南京team去湖南团建，不知道是庆祝接到中车的单子还是融到了钱。
+ 晚上继续研究hugo，不知道怎样才能在边上建出list，和王佩的网站类似。在写markdown的文件时，可以写上tags categories ；可能这些元素可以被脚本抓出来。
+ 今晚下载anaconda 2.7速度又很快，奇怪，前几天压根下不来。
+ 成哥玩了1个小时的scratch游戏，3.0离线源代码用公司网络下飞快，通过微信转到新的机器上，算是曲线救国吧。
+ 要早点睡
+  </description>
+    </item>
+    
+  </channel>
+</rss>

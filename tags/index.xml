@@ -5,9 +5,46 @@
     <link>http://bandjshen.github.io/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 26 May 2019 21:49:11 +0800</lastBuildDate>
     
 	<atom:link href="http://bandjshen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>随笔</title>
+      <link>http://bandjshen.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Sun, 26 May 2019 21:49:11 +0800</pubDate>
+      
+      <guid>http://bandjshen.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>成哥</title>
+      <link>http://bandjshen.github.io/tags/%E6%88%90%E5%93%A5/</link>
+      <pubDate>Sun, 26 May 2019 10:35:57 +0800</pubDate>
+      
+      <guid>http://bandjshen.github.io/tags/%E6%88%90%E5%93%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>编程</title>
+      <link>http://bandjshen.github.io/tags/%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Sun, 26 May 2019 10:35:57 +0800</pubDate>
+      
+      <guid>http://bandjshen.github.io/tags/%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://bandjshen.github.io/tags/hugo/</link>
+      <pubDate>Sun, 26 May 2019 10:23:03 +0800</pubDate>
+      
+      <guid>http://bandjshen.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
