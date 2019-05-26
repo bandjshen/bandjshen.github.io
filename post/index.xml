@@ -5,10 +5,20 @@
     <link>http://bandjshen.github.io/post/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 May 2019 10:23:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2019 10:35:57 +0800</lastBuildDate>
     
 	<atom:link href="http://bandjshen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Scratch_learn</title>
+      <link>http://bandjshen.github.io/post/scratch_learn/</link>
+      <pubDate>Sun, 26 May 2019 10:35:57 +0800</pubDate>
+      
+      <guid>http://bandjshen.github.io/post/scratch_learn/</guid>
+      <description>成哥学习scratch的笔记 买一本书  《scratch编程指南》 作者：Jerry Lee Ford
+  买一台电脑  安装scratch离线编辑器 安装scratch3.0 需要windows10  努力学习，多上机练习 MIT的网站上有很多游戏，可以下载下来玩，网址</description>
+    </item>
     
     <item>
       <title>再尝试一次</title>
